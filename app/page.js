@@ -26,7 +26,7 @@ export default function Home() {
         <li className="flex gap-3">
       <a href="/shorten"> <button className="bg-gray-500 rounded-lg shadow-lg p-3 py-1 font-bold text-white"> 
         Try Now</button></a>  
-       <a href="/github"><button className="bg-gray-500 rounded-lg shadow-lg p-3 py-1 font-bold text-white"> 
+       <a href="https://github.com/ItsDevArya/Bitlinks"><button className="bg-gray-500 rounded-lg shadow-lg p-3 py-1 font-bold text-white"> 
         GitHub</button></a>
        </li>
         </ul>
